@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Seungyeop Kang
+- 👀 I’m interested in Computer Vision, Wireless Sensor Networks and Artificial Intelligence for Robotics.
+- 🌱 I’m currently learning Machine learning, Computer Vision and Wireless Sensor Networks.
+- 💞️ I’m looking to collaborate on robotics projects or wirless communications.
+- 📫 Please feel free to ask any questions via email or comment!
